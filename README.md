@@ -2,7 +2,7 @@ README.md
 # Personal Information Manager
 
 ## 📌 Project Description
-
+This is my first Python project.
 
 The program stores and displays personal information using:
 - Variables
