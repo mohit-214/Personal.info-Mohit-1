@@ -1,5 +1,5 @@
 # ----------------------------------------
-# Name: Mohit Bhandaari
+# Name: Mohit Bhandari
 # Project: Personal Information Manager
 # Description: My first complete Python project
 # ----------------------------------------
